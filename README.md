@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Yomal Kannangara</h1>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Information+Systems+Undergraduate+%40+UCSC;Software+Engineering+%26+DevOps+Enthusiast;Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Building+Production-Style+Software+Systems;Open+to+Software+Engineering+Internships+%F0%9F%92%BC)](https://git.io/typing-svg)
+# Hi 👋, I'm Yomal Kannangara
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=760&lines=Information+Systems+Undergraduate+%40+UCSC;Software+Engineering+%26+DevOps+Enthusiast;Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Building+Production-Style+Software+Systems;Open+to+Software+Engineering+Internships+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yomal-kannangara)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YomalKannaX@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yomalkannangara)
 ![Profile Views](https://komarev.com/ghpvc/?username=yomalkannangara&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS)
+
+### Software Engineering • Backend • DevOps • Cloud
 
 </div>
 
@@ -15,17 +17,18 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Information Systems undergraduate at the **University of Colombo School of Computing (UCSC)**
-- 💻 Interested in **Software Engineering, Backend Development, DevOps, Cloud & Infrastructure**
+I'm an **Information Systems undergraduate at the University of Colombo School of Computing (UCSC)** with a strong interest in building reliable software systems and understanding how they move from development into production.
+
 - ☕ Building backend systems with **Java, Spring Boot, REST APIs and PostgreSQL**
 - ⚛️ Developing modern frontends with **React and TypeScript**
-- 🐳 Interested in taking software from **code → container → CI/CD → cloud deployment**
-- 🚀 Currently building production-style projects that combine software engineering and DevOps practices
+- 🐳 Working with **Docker, CI/CD, Linux and cloud deployments**
+- 🔐 Interested in secure APIs, authentication, production reliability and clean system design
+- 🚀 I enjoy projects that combine **software engineering with real deployment and operational concerns**
 - 💼 Open to **Software Engineering / DevOps internship opportunities**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Core Technologies
 
 <div align="center">
 
@@ -34,24 +37,19 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Backend
+### Backend & Web
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Database
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -62,7 +60,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -70,34 +67,79 @@
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Projects
 
-### 🔧 ReleaseOps
+## 🔧 ReleaseOps
 
-**Production-style Software Engineering & DevOps platform**
+### Production-Style Software Engineering & DevOps Platform
 
-ReleaseOps is a full-stack platform for managing software services, incidents, deployments, audit logs and production health.
+ReleaseOps is a full-stack platform for managing **software services, incidents, deployments, audit logs and production health**. I built it to demonstrate the complete lifecycle of an application — from backend and frontend development to containerization, CI/CD, cloud deployment, monitoring, security, rollback and recovery.
 
-**Built with:**  
-`React` · `TypeScript` · `Java 21` · `Spring Boot` · `Spring Security` · `JWT` · `PostgreSQL` · `Docker` · `GitHub Actions` · `OCI`
+**Tech:** `Java 21` · `Spring Boot` · `Spring Security` · `React` · `TypeScript` · `PostgreSQL` · `Docker` · `GitHub Actions` · `OCI`
 
-**Highlights:**
-
+**Highlights**
 - 🔐 JWT authentication and role-based access control
-- 📦 Dockerized full-stack application
-- 🔄 Automated CI/CD with GitHub Actions
-- 🛡️ Security scanning with Trivy
+- 📦 Dockerized full-stack deployment
+- 🔄 Automated CI/CD pipeline with tests, build validation and image publishing
+- 🛡️ Trivy security scanning
 - ☁️ Production deployment on Oracle Cloud Infrastructure
 - ❤️ Automated deployment health checks
 - ↩️ Failed-release rollback workflow
 - 🗄️ PostgreSQL backup and tested restoration
 - 📊 Production monitoring and operational visibility
-- 🏗️ Infrastructure represented as code
 
 <div align="center">
 
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yomalkannangara/releaseops)
 [![Live](https://img.shields.io/badge/Live_Application-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://releaseops-yk.duckdns.org)
+
+</div>
+
+---
+
+## 🚌 NexBus
+
+### Smart Bus Tracking & Management System
+
+NexBus is a **role-based transport management platform** designed to improve the efficiency and transparency of Sri Lankan public and private bus operations. It centralizes routes, timetables, fleet management, bus assignments, trip records, passenger feedback and operational reporting for passengers, depot staff, timekeepers, bus owners and administrators.
+
+**Tech:** `PHP` · `MySQL` · `JavaScript` · `AJAX` · `HTML` · `CSS` · `MVC Architecture`
+
+**Highlights**
+- 👥 Multiple role-based dashboards and access flows
+- 🚌 Fleet, route and timetable management
+- 🧭 Bus assignment and trip-entry workflows
+- 📝 Passenger feedback and complaint handling
+- 📊 Operational reporting and management views
+- 🏗️ MVC-based project structure for maintainability
+
+<div align="center">
+
+[![Repository](https://img.shields.io/badge/View_NexBus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yomalkannangara/NexBus)
+
+</div>
+
+---
+
+## 📱 Android Text Editor
+
+### Kotlin Code Editor for Android
+
+A lightweight Android text and code editor built in **Kotlin** with **Jetpack Compose and Material3**. Beyond normal text editing, the app includes syntax highlighting and an ADB-based compiler workflow that allows Kotlin files to be compiled using a desktop Kotlin compiler while returning compilation results and errors back to the editor.
+
+**Tech:** `Kotlin` · `Jetpack Compose` · `Material3` · `Android` · `ADB`
+
+**Highlights**
+- 📄 Create, open, save and manage text/code files
+- ↩️ Copy, cut, paste, undo and redo
+- 🔎 Find and replace with case-sensitive and whole-word options
+- 🎨 Kotlin syntax highlighting with configurable highlighting support
+- ⚡ ADB-based Kotlin compiler integration
+- 🧪 Compilation success/failure and error reporting inside the editor
+
+<div align="center">
+
+[![Repository](https://img.shields.io/badge/View_Text_Editor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yomalkannangara/Text_Editor)
 
 </div>
 
@@ -135,8 +177,8 @@ ReleaseOps is a full-stack platform for managing software services, incidents, d
 
 ### 🤝 Let's Connect
 
-I'm always interested in learning, building useful software, and collaborating on engineering projects.
+I enjoy building practical systems, learning how software behaves in production, and continuously improving my engineering skills.
 
-**Software Engineering • Backend • DevOps • Cloud**
+**Software Engineering • Backend • DevOps • Cloud • Full Stack**
 
 </div>
