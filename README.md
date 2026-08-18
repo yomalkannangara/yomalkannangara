@@ -37,10 +37,10 @@
 
 <td width="44%" align="center">
 
-<img alt="Developer" width="390"
-src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif">
-</td>
-
+<img
+  alt="Software Engineering Tools"
+  width="390"
+  src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Software_Tools.gif">
 </tr>
 </table>
 
