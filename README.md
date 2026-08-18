@@ -38,9 +38,9 @@
 <td width="44%" align="center">
 
 <img
-  alt="Software Engineering Tools"
+  alt="Frontend Development"
   width="390"
-  src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Software_Tools.gif">
+  src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Front_End.gif">
 </tr>
 </table>
 
