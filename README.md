@@ -38,8 +38,7 @@
 <td width="44%" align="center">
 
 <img alt="Developer" width="390"
-src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
-
+src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif">
 </td>
 
 </tr>
