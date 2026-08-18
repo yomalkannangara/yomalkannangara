@@ -38,10 +38,11 @@
 <td width="44%" align="center">
 
 <img
-  alt="Frontend Development"
+  alt="Software Engineering"
   width="390"
-  src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Front_End.gif">
-</tr>
+  src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif">
+
+</td>
 </table>
 
 ---
