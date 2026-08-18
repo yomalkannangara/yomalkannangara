@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yomal-kannangara)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YomalKannaX@gmail.com)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YomalKannaX@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=yomalkannangara&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS)
 
 ### Software Engineering • Backend • DevOps • Cloud
